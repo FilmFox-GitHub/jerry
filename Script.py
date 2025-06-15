@@ -12,13 +12,13 @@ Currently using free server so please Dont kill Me...
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
 ◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- DQ Filter Bot  is not an open source project. 
+- Jerry Filter Bot is not an open source project. 
 - Source - <ahref=https://nokkiirunnoippokittum.com>Click Here to get source code</a>
 
 <b>DEVS:</b>
 -<a href=https://t.me/foxxytg> FOXxY TG</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
-- Filter is the feature were users can set automated replies for a particular keyword and dq autofilter bot will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Jerry will respond whenever a keyword is found the message
 <b>NOTE:</b>
 1. This Bot should have admin privillage.
 2. only admins can add filters in a chat.
@@ -70,7 +70,7 @@ Currently using free server so please Dont kill Me...
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of DQ AUTOFILTER BOT
+these are the extra features of Jerry AUTOFILTER BOT
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
