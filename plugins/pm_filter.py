@@ -69,7 +69,15 @@ async def next_page(bot, query):
         return
 
     settings = await get_settings(query.message.chat.id)
-
+    
+    if HYPER_MODE:Add commentMore actions
+        cap_lines = []
+        for file in files:
+            file_link = f"https://t.me/{temp.U_NAME}?start=file_{file.file_id}"
+            cap_lines.append(f"📁 {get_size(file.file_size)} - [{file.file_name}]({file_link})")
+        cap_text = "\n".join(cap_lines)
+        btn = []
+else:
         if settings['button']:
             btn = [
                 [
